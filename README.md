@@ -19,8 +19,8 @@
 |------|------|
 | 🐍 Python | 크롤링, 데이터 ETL, 자동화 |
 | 🧮 BigQuery | GA4 & 웹 로그 통합 분석 |
-| 🔄 Airflow | SEO 분석 DAG 자동화 |
-| ☁️ AWS Lambda | 서버리스 크롤링 / 분석 배포 |
+| 🔄 Airflow | Python DAG 자동화 |
+| ☁️ AWS | EC2, Lambda 등 Cloud 활용 |
 | 🧠 NLP | Kiwi, KRWordRank로 키워드 분석 |
 | 📈 Looker Studio | 데이터 대시보드 시각화 |
 
