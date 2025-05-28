@@ -16,10 +16,9 @@
 | 도구 | 설명 |
 |------|------|
 | 🐍 Python | 크롤링, 데이터 ETL, 자동화 |
-| 🧮 BigQuery | GA4 & 웹 로그 통합 분석 |
+| 🧮 BigQuery | DW |
 | 🔄 Airflow | Python DAG 자동화 |
 | ☁️ AWS | EC2, Lambda 등 Cloud 활용 |
-| 🧠 NLP | Kiwi, KRWordRank로 키워드 분석 |
 | 📈 Looker Studio | 데이터 대시보드 시각화 |
 
 ---
