@@ -19,6 +19,6 @@
 | 🧮 BigQuery | DW |
 | 🔄 Airflow | Python DAG 자동화 |
 | ☁️ AWS | EC2, Lambda 등 Cloud 활용 |
-| 📈 Looker Studio | 데이터 대시보드 시각화 |
+| 📈 Looker Studio, Grafana | 데이터 대시보드 시각화 |
 
 ---
