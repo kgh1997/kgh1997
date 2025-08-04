@@ -16,6 +16,7 @@
 | 도구 | 설명 |
 |------|------|
 | 🐍 Python | 크롤링, 데이터 ETL, 자동화 |
+| 🛠️ DBT | 데이터 가공 툴 |
 | 🧮 BigQuery | DW |
 | 🔄 Airflow | Python DAG 자동화 |
 | ☁️ AWS | EC2, Lambda 등 Cloud 활용 |
