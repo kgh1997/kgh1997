@@ -1,25 +1,49 @@
-<!-- 헤더 섹션 -->
-<h3 align="center">👋 안녕하세요, 데이터 분석가 김기훈입니다</h3>
+# Hi, I'm 기훈 👋
 
----
+Data Analyst Engineer focused on building reliable data pipelines and turning data into decisions.
 
-## 🚀 About Me
+<br>
 
-- 💌 **이메일**: gihungim709@gmail.com  
-- 🔭 **목표**: `데이터 ETL 파이프라인` 및 `데이터를 기반으로 하는 의사결정 환경 구축`
-- 🧩 **포지션**: 데이터 엔지니어링부터 분석까지 데이터를 기반으로 한 풀스택 역량을 쌓고 싶습니다
+## 🛠 Tech Stack
 
----
+**Languages**
 
-## 🧰 Skill Toolbox
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-| 도구 | 설명 |
-|------|------|
-| 🐍 Python | 크롤링, 데이터 ETL, 자동화 |
-| 🛠️ DBT | 데이터 가공 툴 |
-| 🧮 BigQuery | DW |
-| 🔄 Airflow | Python DAG 자동화 |
-| ☁️ AWS | EC2, Lambda 등 Cloud 활용 |
-| 📈 Looker Studio, Grafana | 데이터 대시보드 시각화 |
+**Data**
 
----
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Visualization**
+
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
+![Evidence.dev](https://img.shields.io/badge/Evidence.dev-333333?style=flat-square)
+
+**Cloud**
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+<br>
+
+## 📂 Portfolio
+
+| | |
+|---|---|
+| 📋 Portfolio | [Notion 포트폴리오 보기](https://portfolio709.notion.site/2d69e749171d809bbd48c72ce9f0a779) |
+| ✍️ Blog | [gihungim709.tistory.com](https://gihungim709.tistory.com) |
+| 📧 Email | gihungim709@gmail.com |
+
+<br>
+
+## 🔧 Currently Working On
+
+- 웹 로그 수집 파이프라인 구축 (GTM 기반)
+- DuckDB + dbt + n8n 경량 자동화 아키텍처 설계
