@@ -42,8 +42,3 @@ Data Analyst Engineer focused on building reliable data pipelines and turning da
 | 📧 Email | gihungim709@gmail.com |
 
 <br>
-
-## 🔧 Currently Working On
-
-- 웹 로그 수집 파이프라인 구축 (GTM 기반)
-- DuckDB + dbt + n8n 경량 자동화 아키텍처 설계
